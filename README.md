@@ -1,2 +1,3 @@
 # hello-world
-just another repository
+Hi Humans!
+imran khan here! i am here for learn new things 
